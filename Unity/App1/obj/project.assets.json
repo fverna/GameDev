@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Francesco\\source\\repos\\GameDev\\Unity\\App1\\App1.csproj",
+      "projectUniqueName": "E:\\GitHub\\repos\\GameDev\\Unity\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "C:\\Users\\Francesco\\source\\repos\\GameDev\\Unity\\App1\\App1.csproj",
+      "projectPath": "E:\\GitHub\\repos\\GameDev\\Unity\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\Francesco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Francesco\\source\\repos\\GameDev\\Unity\\App1\\obj\\",
+      "outputPath": "E:\\GitHub\\repos\\GameDev\\Unity\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

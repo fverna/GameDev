@@ -8,3 +8,14 @@ C:\Users\Francesco\source\repos\GameDev\Unity\App1\obj\Debug\netcoreapp2.0\App1.
 C:\Users\Francesco\source\repos\GameDev\Unity\App1\obj\Debug\netcoreapp2.0\App1.AssemblyInfo.cs
 C:\Users\Francesco\source\repos\GameDev\Unity\App1\obj\Debug\netcoreapp2.0\App1.dll
 C:\Users\Francesco\source\repos\GameDev\Unity\App1\obj\Debug\netcoreapp2.0\App1.pdb
+E:\GitHub\repos\GameDev\Unity\App1\obj\Debug\netcoreapp2.0\App1.csprojAssemblyReference.cache
+E:\GitHub\repos\GameDev\Unity\App1\obj\Debug\netcoreapp2.0\App1.csproj.CoreCompileInputs.cache
+E:\GitHub\repos\GameDev\Unity\App1\obj\Debug\netcoreapp2.0\App1.AssemblyInfoInputs.cache
+E:\GitHub\repos\GameDev\Unity\App1\obj\Debug\netcoreapp2.0\App1.AssemblyInfo.cs
+E:\GitHub\repos\GameDev\Unity\App1\obj\Debug\netcoreapp2.0\App1.dll
+E:\GitHub\repos\GameDev\Unity\App1\obj\Debug\netcoreapp2.0\App1.pdb
+E:\GitHub\repos\GameDev\Unity\App1\bin\Debug\netcoreapp2.0\App1.deps.json
+E:\GitHub\repos\GameDev\Unity\App1\bin\Debug\netcoreapp2.0\App1.runtimeconfig.json
+E:\GitHub\repos\GameDev\Unity\App1\bin\Debug\netcoreapp2.0\App1.runtimeconfig.dev.json
+E:\GitHub\repos\GameDev\Unity\App1\bin\Debug\netcoreapp2.0\App1.dll
+E:\GitHub\repos\GameDev\Unity\App1\bin\Debug\netcoreapp2.0\App1.pdb
