@@ -1,1 +1,1 @@
-This Folder for Unity projects.
+This directory for Unity projects.
